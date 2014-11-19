@@ -1,0 +1,726 @@
+15J,Adel,GA,31,8,83,27
+BQN,Aguadilla  Puero Rico,PRI,18,30,67,8
+AKO,Akron,CO,40,11,103,13
+AKR,Akron-Fulton,OH,41,2,81,28
+ALM,Alamogordo,NM,32,50,105,39
+ALS,Alamosa,CO,37,26,105,52
+AEG,Albuquerque Double Eagle,NM,35,9,106,48
+ABQ,Albuquerque Intl,NM,35,2,106,37
+ALX,Alexander,AL,32,55,85,58
+AXN,Alexandria,MN,45,52,95,24
+YBAS,Alice Springs,NRT,-23,-48,-133,-54
+AIA,Alliance,NE,42,3,102,48
+4G3,Alliance,OH,40,59,81,3
+AMG,Alma,GA,31,32,82,30
+ALN,Alton  Saint Louis,IL,38,53,90,3
+AVK,Alva,OK,36,47,98,42
+TDW,Amarillo,TX,35,10,101,50
+AID,Anderson,IN,40,7,85,37
+MYAF,Andros Small Hope,BAH,24,42,77,47
+ANB,Anniston,AL,33,35,85,51
+N76,Annville - Millard,PA,40,19,76,32
+ACV,Arcata,CA,40,59,124,7
+M89,Arkadelphia,AR,34,6,93,4
+TNCA,Aruba,ARU,12,30,70,1
+EDFC,Aschaffenberg,GER,49,56,-9,-4
+AVL,Asheville,NC,35,26,82,33
+AHN,Athens,GA,33,57,83,20
+UNI,Athens  Ohio University,OH,39,13,82,14
+ADT,Atwood,KS,39,50,101,3
+FFC,Atlanta DeKalb,GA,33,21,84,34
+S50,Auburn,WA,47,20,122,14
+DNL,Augusta  Daniel,GA,33,28,82,2
+AGS,Augusta Bush,GA,33,22,81,58
+2H2,Aurora,MO,36,58,93,42
+YAYE,Ayers Rock,NRT,-25,-11,-130,-59
+BGE,Bainbridge,GA,30,58,84,38
+BWI,Baltimore - BWI,MD,39,11,76,40
+BGR,Bangor,ME,44,48,68,50
+BHB,Bar Harbour,ME,44,27,68,22
+DLL,Baraboo,WI,43,31,89,46
+6G5,Barnsville,OH,40,0,81,12
+BNL,Barnwell,SC,33,15,80,23
+BRW,Barrow,AK,71,17,156,46
+I69,Batavia  Clermont County,OH,39,5,84,13
+YBCR,Batchelor,NRT,-13,-4,-131,-2
+BTL,Battle Creek,MI,42,18,85,15
+BHC,Baxley,GA,31,44,82,23
+3CM,Bay City,MI,43,33,83,54
+73J,Beaufort,SC,32,25,80,38
+BKW,Beckley,WV,37,47,81,7
+BED,Bedford  Hanscom,MA,42,28,71,17
+MZBZ,Belize City,BLZ,17,30,88,11
+YBEL,Bellburn,WAU,-17,-32,-128,-18
+EFC,Belle Fourche,SD,44,44,103,52
+7I7,Bellefontaine,OH,40,25,83,44
+RPB,Belleville,KS,39,49,97,40
+K61,Beloit,KS,39,28,98,8
+FBEN,Benguerra,MOZ,-21,-51,-35,-27
+5B5,Bennington,VT,42,53,73,15
+BIL,Billings,MT,45,48,108,33
+BIS,Bismarck,ND,46,46,100,45
+BCB,Blacksburg,VA,37,12,80,24
+BID,Block Island,RI,41,10,71,35
+BMG,Blooomington,IN,39,9,86,37
+ISZ,Blue Ash,OH,39,15,84,24
+BLF,Bluefield,WV,37,18,81,12
+66Y,Bluff,UT,37,15,109,38
+TZR,Bolton,OH,39,54,83,8
+BONR,Bonaire,BON,12,5,68,10
+YBRL,Borroloola,NRT,-16,-5,-136,-18
+BWG,Bowling Green,KY,36,58,86,25
+BFD,Bradford,PA,41,38,78,38
+BRD,Brainerd,MN,46,24,94,8
+CYBR,Brandon,MB,49,54,99,57
+YBAF,Brisbane,QSL,-27,-34,-153,0
+BCE,Bryce Canyon,UT,37,42,112,9
+YBKT,Burketown,QSL,-17,-45,-139,-32
+BRL,Burlington,IA,40,47,91,8
+BUM,Butler,MO,38,17,94,20
+BTM,Butte,MT,45,57,112,30
+YBCS,Cairns,QSL,-16,-53,-145,-45
+CDW,Caldwell,NJ,40,53,74,17
+CYYC,Calgary-Intl,AB,51,7,114,1
+CDI,Cambridge,OH,39,59,81,35
+EZZ,Cameron,MO,39,44,94,17
+YSCB,Canberra,CAU,-35,-19,-149,-12
+18A,Canon Franklin Co,GA,34,25,83,8
+CGI,Cape Girardeau,MO,37,14,89,34
+WWD,Cape May  Wildwood,NJ,39,1,74,54
+CARA,Caracas  Venezuela,VEN,10,30,66,50
+MDH,Carbondale Murphysburg,IL,37,47,89,15
+CNM,Carlsbad,NM,32,20,104,16
+CTJ,Carrollton,GA,33,38,85,9
+CPR,Casper - Natrona Co.,WY,42,55,106,28
+MWCB,Cayman  Brac,CAY,19,40,79,55
+MWCR,Cayman  Grand,CAY,19,18,81,22
+MWLC,Cayman  Little,CAY,19,38,80,8
+CID,Cedar Rapids,IA,41,53,91,43
+CQA,Celina,OH,40,29,84,34
+GHM,Centerville,TN,35,50,87,27
+CDR,Chadron,NE,42,51,103,6
+CRW,Charleston,WV,38,22,81,36
+CHS,Charleston Intl.,SC,32,54,80,2
+1A0,Chattanooga  Dallas Bay,TN,35,11,85,11
+O05,Chester,CA,40,17,121,15
+CGX,Chicago Meigs,IL,41,56,87,38
+ORD,Chicago O'Hare,IL,41,59,87,54
+CHK,Chickasha,OK,35,06,97,58
+RZT,Chillecothe,OH,39,26,83,1
+S71,Chinook,MT,48,36,109,15
+FACC,Chitwa Chitwa Lodge,SAF,-24,-45,-31,-31
+CHP,Circle Hot Springs,AK,65,29,144,37
+CYO,Circleville,OH,39,31,82,59
+CKV,Clarksville,TN,36,37,87,25
+CAO,Clayton,NM,36,27,103,9
+CLW,Clearwater,FL,27,59,82,46
+CEU,Clemson,SC,34,40,82,53
+CGF,Cleveland  Cuyahoga County,OH,41,34,81,29
+CLE,Cleveland International,OH,41,25,81,51
+BKL,Cleveland Lakefront,OH,41,31,81,41
+GLY,Clinton,MO,38,21,93,41
+COD,Cody,WY,44,31,109,1
+YSCH,Coffs Harbour,NSW,-30,-19,-153,-6
+CBK,Colby,KS,39,26,101,3
+CGS,College Park,MD,38,59,76,55
+COS,Colorado Springs,CO,38,48,104,42
+O22,Columbia,CA,38,2,120,25
+COU,Columbia,MO,38,49,92,13
+CUB,Columbia  Downtown,SC,33,58,81,0
+CMH,Columbus  Port,OH,40,0,82,54
+214,Columbus  South,OH,39,53,82,57
+JQF,Concord,NC,35,23,80,43
+CNK,Concordia,KS,39,33,97,39
+2G3,Connellsville,PA,39,58,79,39
+YCBP,Coober Pedy,SAU,-29,-2,-134,-43
+YCOO,Cooinda,NRT,-12,-54,-132,-32
+YCOM,Cooma,NSW,-36,-18,-148,-58
+CDV,Cordova,AK,60,30,145,29
+AJR,Cornelia Habersham Co,GA,34,30,83,33
+I40,Coshocton,OH,40,19,81,51
+CVG,Covington/Cinci  Greater,KY,39,3,84,40
+CEC,Crescent City,CA,41,47,124,14
+CEW,Crestview,FL,30,47,86,31
+CTY,Cross City,FL,29,38,83,7
+CSV,Crossville,TN,35,57,85,6
+X31,Crystal River,FL,28,52,82,34
+UBX,Cuba,MO,38,4,91,26
+CJR,Culpeper,VA,38,32,77,52
+SD01,Custer,SD,43,44,103,37
+TKI,Dallas  McKinney,TX,33,11,96,35
+F69,Dallas Air Park,TX,33,1,96,50
+DAL,Dallas Love,TX,32,51,96,51
+DFW,Dallas-Fort Worth,TX,32,54,97,2
+5B3,Danielson,CT,41,49,71,54
+DNV,Danville,IL,40,12,87,36
+DAN,Danville,VA,36,34,79,20
+YPDN,Darwin,NRT,-12,-25,-130,-53
+CYDN,Dauphin,MB,51,6,100,3
+DVN,Davenport,IA,41,37,90,35
+CYDA,Dawson City,YT,64,3,139,7
+MGY,Dayton  Wright Brothers,OH,39,35,84,13
+DAY,Dayton Cox,OH,39,54,84,13
+DAB,Daytona Beach,FL,29,11,81,3
+SCC,Deadhorse Prudoe Bay,AK,70,12,148,28
+TN44,Deerfield,TN,36,21,84,1
+DFI,Defiance,OH,41,21,84,26
+DLZ,Delaware,OH,40,17,83,6
+BJC,Denver Jefco,CO,39,54,105,8
+DEN,Denver-Stapleton,CO,39,40,105,0
+DTW,Detroit-Metro,MI,42,13,83,21
+YDPO,Devonport,TAZ,-41,-10,-146,-26
+DIK,Dickinson,ND,46,48,102,48
+HDH,Dillingham  Mokuleia Oahu,HI,21,35,158,12
+DDC,Dodge City,KS,37,46,99,58
+DBN,Dublin,GA,32,34,82,59
+PSK,Dublin,VA,37,14,80,41
+DUJ,Dubois,PA,41,11,78,54
+DBQ,Dubuque,IA,42,24,90,43
+DRO,Durango,CO,37,9,107,42
+DTG,Dwight,IL,41,8,88,26
+EAA,Eagle,AK,64,47,141,9
+EGE,Eagle,CO,39,39,106,55
+EYE,Eagle Creek,IN,39,35,86,18
+EEQ,East equator,EEQ,0,0,180,0
+CPS,East St. Louis  Bi-State,IL,38,34,90,9
+ESN,Easton,MD,38,48,76,4
+EDFE,Egelsbach,GER,49,57,-8,-44
+EIN,Einasleigh,QSL,-18,-30,-144,0
+ELD,El Dorado,AR,33,13,92,49
+F43,El Dorado - Downtown,AR,33,11,92,40
+27A,Elberton,GA,34,6,82,49
+ELK,Elk City,OK,35,26,99,24
+EKN,Elkins,WV,38,53,79,51
+ELM,Elmira,NY,42,10,76,53
+ELO,Ely,MN,47,49,91,50
+ELY,Ely,NV,39,18,114,51
+EMP,Emporia,KS,38,20,96,11
+EPH,Ephrata,WA,47,18,119,31
+YESC,Escott,QSL,-17,-44,-139,-25
+EST,Estherville,IA,43,24,94,45
+EVV,Evansville,IN,38,2,87,32
+9N3,Factoryville (Seamons),PA,41,35,75,45
+FAI,Fairbanks,AK,64,49,147,52
+FWC,Fairfield,IL,38,23,88,25
+O89,Fall River Mills,CA,41,1,121,26
+FNB,Falls City,NE,40,50,95,36
+FAM,Farmington,MO,37,46,90,26
+I89,Fayette,WV,38,2,81,7
+55J,Fernadina Beach,FL,30,37,81,28
+FES,Festus,MO,38,12,90,23
+FDY,Findlay,OH,41,1,83,40
+7D5,Findlay  Priebe,OH,41,7,83,41
+YFLI,Flinders Island,TAZ,-40,-5,-148,0
+FNT,Flint,MI,42,58,83,45
+MPS,Ford Island Oahu,HI,21,22,157,58
+FXE,Fort Lauderdale Exec,FL,26,12,80,10
+TBN,Fort Leonard Wood,MO,37,45,92,8
+FSW,Fort Madison,IA,40,40,91,20
+RSW,Fort Myers,FL,26,32,81,45
+CYYE,Fort Nelson,BC,58,50,122,36
+4A9,Fort Payne - Isbell,AL,34,28,85,43
+FPR,Fort Pierce,FL,27,30,80,22
+FSM,Fort Smith,AR,35,20,94,22
+CYXJ,Fort St John,BC,56,14,120,44
+DTS,Fort Walton Beach,FL,30,24,86,28
+FWA,Fort Wayne,IN,40,59,85,12
+SMD,Fort Wayne Smith,IN,41,9,85,9
+FYU,Fort Yukon,AK,66,35,145,15
+FBFT,Francistown,BOT,-21,-10,-27,-29
+FKR,Frankfort,IN,40,16,86,34
+FFT,Frankfort,KY,38,11,84,54
+H88,Frederickton,MO,37,36,90,17
+EZF,Fredricksburg,VA,38,16,77,27
+MYGF,Freeport,BAH,26,33,78,42
+FRH,French Lick,IN,38,30,86,38
+FTG,Front Range,CO,39,48,104,33
+IZG,Fryeburg,ME,43,59,70,57
+L06,Furnace Creek,CA,36,28,116,53
+GVL,Gainseville,GA,34,16,83,50
+M33,Gallatin,TN,36,23,86,24
+GUP,Gallup,NM,35,31,108,47
+GCK,Garden City,KS,37,56,100,43
+GYY,Gary,IN,41,37,87,25
+MGGT,Georgetown Exuma,BAH,23,34,75,53
+GED,Georgetown,DE,38,41,75,22
+GEO,Georgetown,OH,38,53,83,53
+GCC,Gillette,WY,44,21,105,32
+GGW,Glascow,MT,48,13,106,37
+GLW,Glasgow,KY,37,2,85,57
+4S1,Gold Beach,OR,42,25,124,26
+GLD,Goodland,KS,39,22,101,42
+CYZE,Gore Bay,ON,45,54,82,35
+MYEM,Governors Harbour Eleuthera,BAH,25,17,76,19
+FAGO,Gowrie Chitwa Chitwa Lodge,SAF,-24,-44,-31,-34
+GCN,Grand Canyon,AZ,35,57,112,9
+GRI,Grand Island,NE,40,58,98,19
+CYQU,Grand Prairie,AB,55,10,118,53
+S80,Grangeville,ID,45,57,116,7
+3S8,Grant's Pass,OR,42,31,123,23
+GTF,Great Falls,MT,47,29,111,22
+MYBG,Great Harbour Cay,BAH,25,44,77,50
+YGKL,Great Kepple Island,QSL,-23,-11,-150,-57
+?GBR,Greenbriar,WV,37,47,80,20
+GCY,Greeneville,TN,36,12,82,49
+GSO,Greensboro,NC,36,6,79,56
+I34,Greensburg,IN,39,20,85,31
+GRD,Greenwood,SC,34,15,82,10
+TGPY,Grenada,GRE,12,0,61,47
+JKA,Gulf Shores,AL,30,18,87,41
+GST,Gustavus,AK,58,25,135,42
+CYHZ,Halifax,NS,44,53,63,30
+YHLC,Halls Creek,NRT,-18,-14,-127,-40
+U69,Halls Crossing,UT,37,27,110,34
+HAO,Hamilton,OH,39,22,84,32
+HNM,Hana         Maui,HI,20,48,156,1
+CMX,Hancock,MI,47,10,88,29
+HSI,Hastings,NE,40,36,98,26
+HBG,Hattiesburg - Chain,MS,31,16,89,16
+PIB,Hattiesburg - Laurel,MS,31,28,89,20
+5F3,Haynesville,LA,32,59,93,9
+HYS,Hays,KS,38,51,99,16
+K20,Hazard  Eastern KY Uni,KY,37,23,83,14
+HRR,Healy,AK,63,52,148,58
+HLN,Helena,MT,46,36,111,59
+HKY,Hickory,NC,35,44,81,23
+HOC,Hillsboro  Highland Co,OH,39,11,83,32
+ITO,Hilo Big Island,HI,19,43,155,3
+HXD,Hilton Head,SC,32,13,80,42
+HBR,Hobart,OK,34,59,99,3
+YCBG,Hobart,TAZ,-42,-50,-147,-29
+X51,Homestead General,FL,25,30,80,33
+HNL,Honolulu Oahu,HI,21,19,157,55
+YHOO,Hooker Creek,NRT,-18,-20,-130,-38
+HOT,Hot Springs,AR,34,29,93,6
+HSP,Hot Springs,VA,37,57,79,50
+LA16,Houma,LA,29,35,90,43
+MDQ,Hunstville Madison Co.,AL,34,51,86,33
+HHG,Huntington,IN,40,47,85,28
+HTS,Huntington,WV,38,22,82,33
+HSV,Huntsville,AL,34,38,86,46
+HON,Huron,SD,44,23,98,14
+HUT,Hutchinson,KS,38,4,97,52
+HYA,Hyannis,MA,41,40,70,17
+IND,Indianapolis Intl.,IN,39,43,86,18
+K88,Iola,KS,37,48,94,47
+IOW,Iowa City,IA,41,38,91,33
+IWD,Ironwood,MI,46,32,90,8
+YJAB,Jabiru Kakadu,NRT,-12,-40,-132,-54
+JAU,Jacksboro,TN,36,20,84,10
+JAC,Jackson Hole,WY,43,36,110,44
+IJX,Jacksonville,IL,39,46,90,14
+CRG,Jacksonville - Craig,FL,30,16,81,48
+AFN,Jaffrey,NH,42,48,72,0
+JHW,Jamestown,NY,42,9,79,15
+JVL,Janesville,WI,42,37,89,2
+JFX,Jasper  Walker Co,AL,33,54,87,19
+JSA,Johannesburg South Africa,SAF,-26,50,-28,0
+JBR,Jonesboro,AR,35,50,90,39
+JLN,Joplin,MO,37,9,94,30
+JNU,Juneau,AK,58,21,134,35
+OGG,Kahului Maui,HI,20,54,156,26
+JRF,Kalaeloa,HI,21,18,158,4
+LUP,Kalaupapa    Molokai,HI,21,13,156,58
+FCA,Kalispell  Glacier Park,MT,48,19,114,15
+FBKN,Kanana,BOT,-19,-35,-22,-52
+IKK,Kankakee,IL,41,4,87,51
+GVW,Kansas City - R. Gebaur,MO,38,51,94,33
+OJC,Kansas City Olathe-Johnson,KS,38,51,94,44
+FYKC,Karios (Canon Lodge),NAB,-27,-39,-17,-51
+FBKE,Kasane,BOT,-17,-50,-25,-10
+KAT,Katherine,NRT,-14,-30,-132,-30
+YPTN,Katherine Tindal,NRT,-14,-31,-132,-23
+MKK,Kaunakakai Molokai,HI,21,9,157,6
+0V7,Kayenta,AR,36,43,110,14
+FYKT,Keetmanshoop,NAB,-26,-32,-18,-7
+89D,Kelley's Island,OH,41,36,82,41
+ENA,Kenai,AK,60,34,151,15
+1G3,Kent State Uni,OH,41,9,81,25
+KTN,Ketchikan,AK,55,21,131,43
+EZI,Kewanee,IL,41,12,89,58
+EYW,Key West,FL,24,33,81,46
+FFA,Kill Devil Hills,NC,36,1,75,40
+YKII,King Island,TAZ,-39,-53,-143,-53
+AKN,King Salmon,AK,58,41,156,39
+YKSC,Kingscote,SAU,-35,-43,-137,-30
+IRK,Kirksville,MO,40,6,92,33
+ISM,Kissimee,FL,28,17,81,26
+S51,Klamath,CA,41,31,124,0
+LMT,Klamath Falls,OR,42,9,121,44
+DKX,Knoxville  Downtown Island,TN,35,58,83,52
+TYS,Knoxville  McGhee Tyson,TN,35,49,84,0
+ONA,Kona Big Island,HI,19,44,156,3
+FAKN,Kruger Mpumal Intl.,SAF,-25,-24,-31,-6
+YPKU,Kununurra,WAU,-15,-47,-128,-42
+LGA,La Guardia,NY,40,47,73,52
+LHX,La Junta,CO,38,3,103,31
+LCI,Laconia,NH,43,34,71,25
+LAF,Lafayette,IN,40,24,86,56
+LCQ,Lake City,FL,30,11,82,35
+LKP,Lake Placid,NY,44,16,73,58
+X07,Lake Wales,FL,27,57,81,36
+LAL,Lakeland,FL,27,59,82,1
+LAA,Lamar,CO,38,4,102,41
+LNY,Lanai City Lanai,HI,20,47,156,57
+LHQ,Lancaster,OH,39,45,82,40
+LNS,Lancaster,PA,40,7,76,18
+FALA,Lanseria Intl.,SAF,-25,-56,-27,-56
+IGQ,Lansing,IL,41,32,87,32
+LQR,Larned,KS,38,12,99,5
+LAS,Las Vegas McCarren,NV,36,5,115,9
+LBE,Latrobe,PA,40,17,79,24
+YLAH,Lawn Hill,QSL,-18,-34,-138,-38
+2M2,Lawrenceburg,TN,35,14,87,16
+I68,Lebanon,OH,39,28,84,15
+LBO,Lebanon,MO,37,39,92,39
+19I,Lebanon  Brownies,OH,39,24,84,12
+LEM,Lemmon,SD,45,55,102,6
+2W6,Leonardtown  St Mary's Co.,MD,38,19,76,33
+CYQL,Lethbridge,AB,49,38,112,48
+LEX,Lexington,KY,38,2,84,36
+FYLS,Lianshulu,NAB,-18,-7,-23,-23
+LIH,Lihue Kauai,HI,21,59,159,20
+AOH,Lima,OH,40,43,84,2
+FBLV,Limpopo Valley,BOT,-22,-11,-29,-8
+LDJ,Linden,NJ,40,37,74,15
+43F,Litchfield,MN,45,6,94,30
+LIT,Little Rock,AR,34,44,92,13
+8A3,Livingston,TN,36,25,85,19
+FLLI,Livingstone,ZAM,-17,-49,-25,-49
+38U,Loa  Wayne Wonderland,UT,38,22,111,36
+LOZ,London,KY,37,5,84,5
+UYF,London,OH,39,56,83,28
+LGB,Long Beach,CA,33,49,118,9
+2V2,Longmont,CO,40,10,105,10
+LAM,Los Alamos,NM,35,53,106,16
+LAX,Los Angeles Intl,CA,33,57,118,24
+LOU,Louisville  Bowman,KY,38,14,85,40
+SDF,Louisville  Standiford,KY,38,10,85,44
+LBB,Lubbock,TX,33,40,101,49
+FYLZ,Luderitz,NAB,-26,-41,-15,-15
+LUK,Lunken,OH,39,6,84,25
+W45,Luray,VA,38,40,78,30
+LYO,Lyons,KS,38,21,98,14
+MCD,Mackinac Island,MI,45,52,84,38
+MCN,Macon,GA,32,42,83,39
+IF4,Madill,OK,34,8,96,49
+MDS,Madison,SD,44,1,97,5
+2I0,Madisonville,KY,37,21,87,24
+HEF,Manassas,VA,38,43,77,31
+MHK,Manhattan,KS,39,9,96,40
+MNI,Manning,SC,33,35,80,13
+MFD,Mansfield,OH,40,49,82,31
+MQI,Manteo  Dare Co,NC,35,55,75,42
+OQW,Maquoketa,IA,42,0,90,44
+MTH,Marathon,FL,24,44,81,3
+O68,Mariposa,CA,37,31,120,3
+SAW,Marquette,MI,46,21,87,24
+MYAM,Marsh Harbour,BAH,26,30,77,5
+MHL,Marshall,MO,39,6,93,12
+MIW,Marshalltown,IA,42,7,92,55
+MRT,Marysville,OH,40,13,83,21
+EVU,Maryville,MO,40,21,94,55
+22I,Mcarthur  Vinton County,OH,39,20,82,27
+I71,Mcconnelsville,OH,39,39,81,48
+MCK,Mccook,NE,40,12,100,36
+CYXH,Medicine Hat,AB,50,1,110,43
+1G5,Medina,OH,41,8,81,46
+MLB,Melbourne,FL,28,6,80,39
+YMMB,Melbourne,VIC,-37,-59,-145,-6
+MEM,Memphis,TN,35,3,89,59
+M39,Mena,AR,34,33,94,12
+67L,Mesquite,NV,36,50,114,3
+MHP,Metter,GA,32,22,82,5
+1D2,Mettetal  Plymouth-Canton,MI,42,21,83,27
+MYJ,Mexico,MO,39,10,91,49
+MIA,Miami Intl,FL,25,48,80,17
+MWO,Middletown,OH,39,32,84,24
+MLS,Miles City,MT,46,26,105,53
+MLJ,Millidgeville,GA,33,9,83,14
+MLT,Millinocket,ME,45,39,68,41
+12V,Milton  Ona,WV,38,26,82,12
+MHE,Mitchell,SD,43,46,98,2
+CNY,Moab  Canyonlands,UT,38,45,109,45
+MBY,Moberly,MO,39,28,92,26
+FYMO,Mokuti Lodge,NAB,-18,-49,-17,-3
+MLI,Moline Quad City,IL,41,27,90,30
+P53,Monongahela  Rostraver,PA,40,13,79,50
+EQY,Monroe,NC,35,1,80,37
+MGM,Montgomery,AL,32,18,86,24
+EKQ,Monticello,KY,36,51,84,51
+MPV,Montpelier,VT,44,12,72,34
+UT25,Monument Valley,UT,37,2,110,12
+CYMJ,Moose Jaw,SK,50,19,105,33
+I73,Moraine,OH,39,41,84,15
+I32,Morehead,KY,38,8,83,32
+MOR,Morristown,TN,36,11,83,23
+YMOR,Moruya,NSW,-35,-54,-150,-9
+IOB,Mount Sterling,KY,38,3,83,59
+MVN,Mount Vernon,IL,38,19,88,52
+MO19,Mountain Grove,MO,37,7,92,19
+MNF,Mountain View,MO,37,0,91,43
+MIE,Muncie,IN,40,15,85,24
+CEY,Murray,KY,36,40,88,27
+MSL,Muscle Shoals,AL,34,45,87,37
+MKG,Muskegon,MI,43,10,86,14
+APF,Naples,FL,26,9,81,47
+ASH,Nashua,NH,42,47,71,31
+BNA,Nashville,TN,36,7,86,41
+MYNN,Nassau,BAH,25,2,77,28
+MYCB,New Bight Cat Island,BAH,24,19,75,27
+UWL,New Castle,IN,39,53,85,20
+I44,New Lebanon,OH,39,46,84,21
+NEW,New Orleans - Lakefront,LA,30,3,90,2
+WV32,New River,WV,38,6,81,4
+EVB,New Smyrna Beach,FL,28,59,80,56
+ERY,Newberry,MI,46,19,85,27
+27J,Newberry,SC,34,19,81,38
+PHF,Newport News Patrick Henry,VA,37,8,76,30
+IAG,Niagara Falls,NY,43,6,78,57
+OUN,Norman,OK,35,21,97,29
+YNTN,Normanton,QSL,-17,-41,-141,-4
+MYEH,North Eleuthera,BAH,25,30,76,41
+VGT,North Las Vegas,NV,36,13,115,12
+1M1,North Little Rock,AR,34,50,92,15
+CRE,North Myrtle Beach,SC,33,49,78,43
+F45,North Palm Beach,FL,26,51,80,13
+LBF,North Platte,NE,41,8,100,41
+NNN,North Pole,NPO,90,0,0,0
+ORT,Northway,AK,62,58,141,56
+OCF,Ocala,FL,29,10,82,13
+OIN,Oberlin,KS,39,50,100,32
+OXB,Ocean City,MD,38,19,75,7
+OSU,Ohio State University,OH,40,5,83,4
+2DT,Oklahoma City - Downtown,OK,35,27,97,32
+HSD,Oklahoma City Sundance,OK,35,36,97,42
+PWA,Oklahoma City Wiley Post,OK,35,32,97,38
+OLV,Olive Branch,MS,34,59,89,47
+OLY,Olney,IL,38,43,88,11
+MLE,Omaha  Millard,NE,41,12,96,7
+ONL,ONeill Baker,NB,42,28,98,42
+OPF,Opa Locka,FL,25,54,80,17
+ORL,Orlando Executive,FL,28,33,81,20
+MCO,Orlando International,FL,28,26,81,19
+OMN,Ormond Beach,FL,29,18,81,7
+I75,Osceola,IA,41,3,93,41
+OSH,Oshkosh,WI,43,59,88,34
+OTM,Ottumwa,IA,41,6,92,27
+U08,Overton Perkins,NV,36,34,114,27
+OWB,Owensborough,KY,37,44,87,10
+OXD,Oxford,OH,39,30,84,47
+PAH,Paducah  Barkely,KY,37,4,88,46
+PGA,Page,AZ,36,56,111,27
+3I6,Paintsville,KY,37,45,82,47
+PAQ,Palmer,AK,61,36,149,5
+PFN,Panama City,FL,30,13,85,41
+PKB,Parkersburg,WV,39,21,81,26
+PTN,Patterson,LA,29,43,91,20
+SFZ,Pawtucket,RI,41,55,71,29
+C15,Pekin,IL,40,29,89,41
+PNS,Pensacola,FL,30,28,87,11
+FL17,Pensacola Ruckel,FL,30,33,86,20
+40J,Perry,FL,30,4,83,35
+YPPH,Perth,WAU,-31,-56,-115,-58
+PSG,Petersburg,AK,56,48,132,57
+PHG,Phillipsburg,KS,39,44,99,19
+LQK,Pickens County,SC,34,49,82,42
+PYN,Piedmont,MO,37,9,90,43
+PIR,Pierre,SD,44,23,100,17
+FAPI,Pietersburg,SAF,-23,-55,-29,-29
+FAPN,Pilanesberg,SAF,-25,-20,-27,-10
+PQN,Pipestone,MN,43,59,96,18
+I17,Piqua,OH,40,10,84,19
+AGC,Pittsburg  Allegheny Co.,PA,40,21,79,56
+PIT,Pittsburg International,PA,40,29,80,14
+PCM,Plant City,FL,28,0,82,10
+FAPP,Polokwane,SAF,-23,-51,-29,-27
+PNT,Pontiac,IL,40,55,88,37
+PTK,Pontiac,MI,42,40,83,25
+POF,Popular Bluff,AR,36,46,90,19
+PAK,Port Allen  Hanapepe Kauai,HI,21,54,159,36
+CLM,Port Angeles,WA,48,7,123,30
+YPAG,Port Augusta,SAU,-32,-30,-137,-43
+CYZT,Port Hardy,BC,50,40,127,22
+CYPG,Portage - Southport,MB,49,54,98,16
+PLD,Portland,IN,40,27,85,0
+YPOD,Portland,VIC,-38,-19,-141,-28
+8WC,Potosi Wash Co,MO,37,56,90,44
+MBPV,Provedenciales Caicos,TRC,21,46,72,16
+PVD,Providence,RI,41,43,71,26
+PVC,Provincetown,MA,42,4,70,13
+PUB,Pueblo,CO,38,17,104,30
+MDPP,Puerto Plata Dominican Rep,DMR,19,45,70,34
+PGD,Punta Gorda,FL,26,55,81,59
+3W2,Put-in-Bay,OH,41,38,82,50
+UIN,Quincy,IL,39,57,91,12
+RAP,Rapid City,SD,44,3,103,3
+29G,Ravenna  Portage County,OH,41,13,81,15
+I64,Ravenswood,WV,38,56,81,49
+RWF,Redwood Falls,MN,44,33,95,5
+CYQR,Regina,SK,50,26,104,40
+RNT,Renton,WA,47,30,122,13
+RID,Richmond,IN,39,46,84,51
+UZA,Rock Hill,SC,34,59,81,3
+YBRK,Rockhampton,QSL,-23,-23,-150,-9
+RVN,Rogersville,TN,36,27,82,53
+VIH,Rolla,MO,38,08,91,46
+06D,Rolla,MT,48,53,99,37
+2I3,Rough River,KY,37,37,86,30
+RUE,Russellville,AR,35,16,93,6
+FARG,Rustenburg,SAF,-25,-39,-27,-17
+FQD,Rutherford Co,NC,35,26,81,56
+MBS,Saginaw,MI,43,32,84,5
+SGJ,Saint Augustine,FL,29,58,81,20
+TAPA,Saint Johns,ANT,17,8,61,47
+STJ,Saint Joseph,MO,39,46,94,55
+3WE,Saint Louis  Weiss,MO,38,40,90,20
+SUS,Saint Louis Spirit of,MO,38,40,90,39
+4J6,Saint Mary's,GA,30,45,81,33
+PIE,Saint Petersburg Clearwate,FL,27,55,82,41
+STT,Saint Thomas Virgin Is,VRI,18,20,64,58
+K33,Salem,MO,37,37,91,36
+SEE,San Diego  Gillespie,CA,32,50,116,58
+SJC,San Jose  Reid-Hillview,CA,37,22,121,56
+SBP,San Luis Obispo,CA,35,14,120,39
+SKY,Sandusky,OH,41,26,82,39
+SNA,Santa Ana John Wayne,CA,33,41,117,52
+SAF,Santa Fe,NM,35,37,106,5
+MDSD,Santo Domingo,DMR,18,26,69,40
+SLK,Saranac Lake,NY,44,23,74,12
+SRQ,Sarasota,FL,27,24,82,33
+CYXE,Saskatoon,SK,52,10,106,42
+DMO,Sedalia,MO,38,42,93,11
+BFF,Scotts Bluff,NE,41,52,103,36
+SDL,Scottsdale,AZ,33,38,111,55
+M07,Searcy,AR,35,13,91,44
+BFI,Seattle-Boeing,WA,47,32,122,18
+GKT,Seiverville,TN,35,51,83,32
+SWD,Seward,AK,60,8,149,25
+SNL,Shawnee,OK,35,21,96,57
+GEZ,Shelbyville,IN,39,35,85,48
+SHR,Sheridan,WY,44,46,106,59
+I12,Sidney,OH,40,14,84,9
+SIT,Sitka,AK,57,3,135,23
+?SLN,Sloan,SC,35,2,82,13
+MQY,Smyrna,TN,36,1,86,31
+2G9,Somerset,PA,40,2,79,1
+SME,Sommerset,KY,37,3,84,37
+FYSL,Sossusvlei Mtn. Lod,NAB,-24,-48,-15,-54
+TVL,South Lake Tahoe,CA,38,54,120,0
+SSS,South Pole,SPO,-90,0,0,0
+SPA,Spartanburg,SC,34,55,81,57
+E42,Spearman,TX,36,13,101,12
+CYBW,Springbank Calgary,AB,51,6,114,22
+SPI,Springfield,IL,39,51,89,41
+3DW,Springfield,MO,37,13,93,15
+SGH,Springfield,OH,39,51,83,51
+M91,Springfield,TN,36,32,86,55
+SPH,Springhill,LA,32,59,93,25
+SHD,Staunton,VA,38,16,78,54
+MYLS,Stella Marris  Long Island,BAH,23,35,75,16
+SQI,Sterling  Whiteside Co,IL,41,45,89,41
+SWO,Stillwater,OK,36,10,97,5
+4A0,Stockbridge - Berry Hill,GA,33,33,84,11
+L09,Stove Pipe Wells,CA,36,36,117,10
+19S,Sublette,KS,37,29,100,50
+UUV,Sullivan,MO,38,14,91,10
+SMS,Sumter,SC,34,0,80,22
+48I,Sutton,WV,38,41,80,39
+SBO,Swainsboro,GA,32,37,82,22
+FYSM,Swakopmund,NAB,-22,-40,-14,-34
+CYYN,Swift Current,SK,50,17,107,41
+CYQY,Sydney,NS,46,6,60,3
+YSBK,Sydney - Bankstown,NSW,-33,-56,-150,-59
+68J,Tallahassee Comm,FL,30,33,84,22
+TLH,Tallahassee Int'l,FL,30,24,84,21
+TPA,Tampa International,FL,27,59,82,32
+TGI,Tangier Island,VA,37,50,76,0
+TAZ,Taylorville,IL,39,32,89,20
+YTNK,Tennant Creek,NRT,-19,-38,-134,-11
+HUF,Terre Haute,IN,39,27,87,18
+TRL,Terrell,TX,32,43,96,16
+TXK,Texarkana,AR,33,27,93,59
+F31,Texoma Lake,OK,34,0,96,39
+OPN,Thomaston,GA,32,57,84,16
+EGHO,Thruxton,ENG,51,15,1,40
+TMA,Tifton,GA,31,26,83,27
+TIX,Titusville,FL,28,31,80,48
+TOC,Toccoa,GA,34,36,83,18
+TOL,Toledo  Express,OH,41,35,83,49
+TVY,Tooele,UT,40,37,112,21
+TOP,Topeka - Billard,KS,39,4,95,37
+YBTL,Townsville,QSL,-19,-15,-146,-46
+TVC,Traverse City,MI,44,44,85,35
+MYAT,Treasure Cay Abaco,BAH,26,45,77,24
+TRX,Trenton,MO,40,6,93,35
+TRI,Tri-City,TN,36,29,82,24
+TRK,Truckee,CA,39,19,120,8
+FATW,Tswalu,SAF,-27,-14,-22,-29
+RYN,Tucson,AZ,32,9,111,10
+THA,Tullahoma,TN,35,23,86,15
+RVS,Tulsa  Riverside,OK,36,2,95,59
+TUL,Tulsa Intl,OK,36,12,95,53
+TUR,Turkey Creek,NRT,-17,0,-128,-15
+TWA,Twelve Apostles,VIC,-38,-45,-143,-30
+TWF,Twin Falls - Joslin Magic,ID,42,29,114,29
+8B2,Twin Mountain,NH,44,16,71,33
+UND,Undara,QSL,-18,-12,-144,-38
+UPP,Upolu Point  Big Is.,HI,20,16,155,52
+FAUP,Uppington Intl.,SAF,-28,-24,-21,-16
+I74,Urbana,OH,40,8,83,45
+VLD,Valdosta,GA,30,47,83,17
+40G,Valle,AZ,35,39,112,9
+VNW,VanWert,OH,40,52,84,36
+VIC,Victor Harbour,SAU,-36,-30,-138,-40
+VDI,Vidalia,GA,32,12,82,22
+FQVL,Vilanculos,MOZ,-22,-1,-35,-19
+VIS,Visalia,CA,36,19,119,24
+MYAW,Walker's Cay Abaco,BAH,27,16,78,24
+ARG,Walnut Ridge,AR,36,07,90,55
+6V4,Wall,SD,44,0,102,15
+RRT,Warroad,MN,48,57,95,21
+ASW,Warsaw,IN,41,16,85,50
+DCY,Washington,IN,38,42,87,8
+IAD,Washington Dulles,VA,38,57,77,27
+DCA,Washington National,DC,38,51,77,2
+PAWS,Wasilla,AK,61,34,149,32
+CYQH,Watson Lake,YT,60,7,128,49
+UGN,Waukegan,IL,42,25,87,52
+AYS,Waycross,GA,31,15,82,24
+N38,Wellsboro,PA,41,44,77,24
+ELZ,Wellsville,NY,42,7,78,0
+ETB,West Bend,WI,43,25,88,8
+WEQ,West equator,WEQ,0,0,0,0
+PBI,West Palm Beach Intl,FL,26,41,80,6
+WYS,West Yellowstone,MT,44,41,111,7
+GA60,Whispering Pines,GA,33,47,83,59
+HPN,White Plains,NY,41,4,73,42
+HIE,Whitefield,NH,44,32,71,33
+CYXY,Whitehorse,YT,60,42,135,4
+AVP,Wilkes-Barre,PA,41,20,75,43
+CMR,Williams,AZ,35,18,112,12
+JGG,Williamsburg,VA,37,31,76,46
+IPT,Williamsport,PA,41,15,76,55
+ILN,Wilmington,OH,39,26,83,48
+I66,Wilmington  Clinton Co,OH,39,30,83,52
+2B6,Wilmington Holister,OH,39,26,83,43
+I22,Winchester  Randolph Co,IN,40,10,84,56
+WDR,Winder,GA,33,59,83,40
+CYQG,Windsor,ON,42,16,82,57
+F57,Winter Haven,FL,28,3,81,45
+LNP,Wise  Lonesome Pine,VA,36,59,82,32
+WRL,Worland,WY,43,58,107,54
+YWYY,Wynyard,TAZ,-41,0,-145,-44
+WBW,Wyoming Val Wilkes Barre,PA,41,18,75,51
+I19,Xenia Greene Co,OH,39,42,84,0
+YAK,Yakutat,AK,59,30,139,40
+ZZV,Zanesville,OH,39,57,81,54
+T77,Presidio,TX,29,38,104,22
+E38,Alpine,TX,30,23,103,41
+MRF,Marfa,TX,30,22,104,1
+CVB,Castroville,TX,29,21,98,51
+5C1,Boerne,TX,29,43,98,42
+1T8,Bulverde,TX,29,44,98,27
+1T7,Kestrel,TX,29,49,98,26
+
+
