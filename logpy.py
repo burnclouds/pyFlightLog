@@ -1,4 +1,6 @@
+from greatcircle import great_circle
 from datetime import date
+
 class Log(object):
     Date = None
     PlaneInd = None
@@ -23,7 +25,7 @@ class Log(object):
     def __init__(self,row,stdntROM):
         # data in form of:
         #YEAR,DATE,PLANE,DEP,DES,DYLAND,NILAND,APPR,HOURS,NIGHT,IFR,GAD,CFI,STDNT,DUAL,PIC,SIC,SFTY,NOTES, PASSENGERS
-        # the date field is form of dDMM where the leading zero on month is required but not for the day
+        # the date field is form of mMDD where the leading zero on day is required but not for the month
         year = int(row[0])
         day = int(row[1][-2:])
         month = int(row[1][:-2])
@@ -95,8 +97,11 @@ class Airport(object):
         self.XcHours += Hours
         self.XcFlights += 1
 
+    def dist(self, remote):
+        return great_circle(self.Lat,self.Lon,remote.Lat,remote.Lon)
+        
     def __repr__(self):
-        pass
+        return self.Title+', '+self.State
 
 class Types(object):
     FirstDate = None

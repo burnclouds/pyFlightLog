@@ -1,24 +1,7 @@
 from logpy import *
-from datetime import date
-import sys, math, argparse, csv
-
-def airport_dist(airportA, airportB):
-    return great_circle(airportA.Lat, airportA.Lon, airportB.Lat, airportB.Lon)
-
-def great_circle(a_lat, a_lon, b_lat, b_lon):
-    deg2rad = math.pi/180.0
-    rad2deg = 180.0/math.pi
-
-    delta_lat = abs(a_lat - b_lat)
-    delta_lon = abs(a_lon - b_lon)
-    a = 2.0 * math.sin(0.5 * delta_lat * deg2rad)
-    b = 2.0 * math.sin(0.5 * delta_lon * deg2rad) * math.cos(a_lat * deg2rad)
-    c = 2.0 * math.sin(0.5 * delta_lon * deg2rad) * math.cos(b_lat * deg2rad)
-    s = math.sqrt(a*a + (b*c))
-    angle = 2.0 * ( math.asin(0.5*s)*rad2deg )
-    # distance in nautical miles
-    distance = (angle / 360.0) * 21600.0
-    return distance
+from datetime import date, timedelta
+from math import log10
+import sys, argparse, csv
 
 def processAirports(data):
     airports = dict() # create an empty dictionary
@@ -67,7 +50,7 @@ def processStudents(data):
             row[0]
         except:
             continue
-        studentROM = int(math.log10(len(data))+1) # Student ID leading zeros
+        studentROM = int(log10(len(data))+1) # Student ID leading zeros
         sID = row[0].zfill(studentROM)
         last = row[1]
         first = row[2]
@@ -88,7 +71,8 @@ def processLogbook(data, stdntROM, airports, planes, models, types, students):
 
         # if the great circle distance between these two airports is >= 50nm
         # the number of cross-country hours is equal to the hours of the flight
-        dist = airport_dist(airports[l.DepInd] ,airports[l.DesInd])
+        dist =  airports[l.DepInd].dist(airports[l.DesInd])
+
         if dist>=50:
             xc = l.Hours
             airports[l.DepInd].addXc(l.Date,l.Hours)
