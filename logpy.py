@@ -264,7 +264,7 @@ class Trips(object):
         self.LastDate = Date
 
     def __repr__(self):
-        return str([self.Hours,self.Flights,self.Miles,self.FirstDate,self.LastDate,self.RevFlights,self.RevFirstDate,self.RevLastDate])
+        return str([self.Hours,self.Flights,self.Miles,self.FirstDate,self.LastDate,self.RevFlights,self.RevHours,self.RevFirstDate,self.RevLastDate])
 
     def addTrip(self,Date,Hours):
         self.Flights += 1

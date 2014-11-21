@@ -1,4 +1,5 @@
 from logpy import *
+from greatcircle import printTrips
 from datetime import date, timedelta
 from math import log10
 import sys, argparse, csv
@@ -86,20 +87,26 @@ def processLogbook(data, stdntROM, airports, planes, models, types, students):
         planes[l.PlaneInd].addLogEntry(l.Date,l.Hours,l.Night,l.Ifr,l.Gad,xc,l.Cfi,l.Dual,l.Pic,l.Sic,l.Sft)
         models[planes[l.PlaneInd].Model].addLogEntry(l.Date,l.Hours,l.Night,l.Ifr,l.Gad,xc,l.Cfi,l.Dual,l.Pic,l.Sic,l.Sft)
         types[planes[l.PlaneInd].Type].addLogEntry(l.Date,l.Hours)
+
         if l.StudentInd != '':
             students[l.StudentInd].addStudentHours(l.Date,l.Cfi)
-        
-        fwd = l.DepInd+':'+l.DesInd
-        if fwd not in trips.keys():
-            trips[fwd] = Trips(l.Date,l.Hours,dist)
-        else:
-            trips[fwd].addTrip(l.Date,l.Hours)
-        rev = l.DesInd+':'+l.DepInd
-        if rev in trips.keys():
-            trips[rev].addRevTrip(l.Date,l.Hours)
+       
+        if l.DepInd != l.DesInd:
+            # fwd/rev here is reelative to current flight not already defined trip(s)
+            fwd = l.DepInd+':'+l.DesInd
+            rev = l.DesInd+':'+l.DepInd
+            if fwd not in trips.keys():
+                if rev not in trips.keys():
+                    # create new trip
+                    trips[fwd] = Trips(l.Date,l.Hours,dist)
+                else:
+                    # reverse trip exists, add revTime
+                    trips[rev].addRevTrip(l.Date,l.Hours)
+            else:
+                # forward trip exists, add time
+                trips[fwd].addTrip(l.Date,l.Hours)
+
     return trips
-        
-# Trip
 
 def main():
     parser = argparse.ArgumentParser(description='Logbook processer')
@@ -132,9 +139,15 @@ def main():
     planes, models, types = processPlanes(stored['planes'])
     students, studentROM = processStudents(stored['students'])
     trips = processLogbook(stored['logbook'], studentROM, airports, planes, models, types, students) 
-    print(students[str(42)])
-    print('*'*8)
-    print(trips['MWO:MIE'])
-    print('*'*8)
-    print(trips['MIE:MWO'])
+
+    printTrips(trips, airports, 'MWO')
+
+
+
+
+
+
+
+
+
 main()
