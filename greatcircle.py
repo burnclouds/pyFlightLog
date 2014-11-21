@@ -1,4 +1,6 @@
 from math import sin, cos, asin, sqrt, degrees, radians
+from sys import stdout
+#from operator import itemgetter, attrgetter, methodcaller
 
 def great_circle(a_lat, a_lon, b_lat, b_lon):
     if (a_lon==b_lon) and (a_lat==b_lat):
@@ -15,17 +17,21 @@ def great_circle(a_lat, a_lon, b_lat, b_lon):
         distance = (angle / 360.0) * 21600.0
         return distance
 
-def printTrips(trips,airports,portFilter):
-    for key in trips:
-        A, B = key.split(':')
-#        if A==portFilter or B==portFilter:
-        if True:
-            a=str('| %10s %10s | %-30s %3s | %-30s %3s | %9.1f | %9i | %8.1f |' % (trips[key].FirstDate.isoformat(),  trips[key].LastDate.isoformat(), airports[A].Title, airports[A].State, airports[B].Title, airports[B].State, trips[key].Miles, trips[key].Flights, trips[key].Hours))
-            if trips[key].RevFlights>0:
-                b=str('\n| %10s %10s | %-30s %3s | %-30s %3s | %9.1f | %9i | %8.1f |' % (trips[key].RevFirstDate.isoformat(),  trips[key].RevLastDate.isoformat(), airports[B].Title, airports[B].State, airports[A].Title, airports[A].State, trips[key].Miles, trips[key].RevFlights, trips[key].RevHours))
-            else:
-                b=''
-            c= str('\n+%23s+%36s+%36s+%11s+%11s+%9s-+' % ('-'*23, '-'*36,'-'*36, '-'*11, '-'*11,'-'*9))
-        out=a+b+c
-        print(out)
-
+def printTrips(trips,airports,sortOn,sortFilter,portFilter):
+    out = ''
+    st = reversed(sorted(trips.items(), key=lambda e: getattr(e[1],sortOn)))
+    a=str('+%23s+%36s+%36s+%11s+%11s+%9s-+' % ('-'*23, '-'*36,'-'*36, '-'*11, '-'*11,'-'*9))
+    for x in st:
+        key = x[0]
+        # check for filter by sortOn
+        if sortFilter==None or getattr(trips[key],sortOn)>=sortFilter:
+            A, B = key.split(':')
+            if portFilter==None or A==portFilter or B==portFilter:
+                b=str('\n| %10s %10s | %-30s %3s | %-30s %3s | %9.1f | %9i | %8.1f |\n' % (trips[key].FirstDate.isoformat(),  trips[key].LastDate.isoformat(), airports[A].Title, airports[A].State, airports[B].Title, airports[B].State, trips[key].Miles, trips[key].Flights, trips[key].Hours))
+                if trips[key].RevFlights>0:
+                    c=str('| %10s %10s | %-30s %3s | %-30s %3s | %9.1f | %9i | %8.1f |\n' % (trips[key].RevFirstDate.isoformat(),  trips[key].RevLastDate.isoformat(), airports[B].Title, airports[B].State, airports[A].Title, airports[A].State, trips[key].Miles, trips[key].RevFlights, trips[key].RevHours))
+                else:
+                    c=''
+                # we use wite rather than print to suppress trailing characters
+                stdout.write(out+a+b+c)
+    stdout.write(a+'\n')

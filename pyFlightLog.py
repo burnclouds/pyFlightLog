@@ -58,9 +58,8 @@ def processStudents(data):
         students[sID] = Student(last,first)
     return students, studentROM
 
-def processLogbook(data, stdntROM, airports, planes, models, types, students):
+def processLogbook(data, stdntROM, airports, planes, models, types, students, trips):
     book = list() # create an empty list
-    trips = dict() # create an empty dictionary
     for row in data:
         try:
             #skip header/footer lines and lines with no year
@@ -73,7 +72,7 @@ def processLogbook(data, stdntROM, airports, planes, models, types, students):
         # if the great circle distance between these two airports is >= 50nm
         # the number of cross-country hours is equal to the hours of the flight
         dist =  airports[l.DepInd].dist(airports[l.DesInd])
-
+#Airports
         if dist>=50:
             xc = l.Hours
             airports[l.DepInd].addXc(l.Date,l.Hours)
@@ -83,14 +82,17 @@ def processLogbook(data, stdntROM, airports, planes, models, types, students):
             airports[l.DepInd].addLocal(l.Date,l.Hours)
             if (l.DepInd != l.DesInd):
                 airports[l.DesInd].addLocal(l.Date,l.Hours)
-        
+
+# Planes, Models, Types        
         planes[l.PlaneInd].addLogEntry(l.Date,l.Hours,l.Night,l.Ifr,l.Gad,xc,l.Cfi,l.Dual,l.Pic,l.Sic,l.Sft)
         models[planes[l.PlaneInd].Model].addLogEntry(l.Date,l.Hours,l.Night,l.Ifr,l.Gad,xc,l.Cfi,l.Dual,l.Pic,l.Sic,l.Sft)
         types[planes[l.PlaneInd].Type].addLogEntry(l.Date,l.Hours)
 
+# Students
         if l.StudentInd != '':
             students[l.StudentInd].addStudentHours(l.Date,l.Cfi)
-       
+
+# Trips
         if l.DepInd != l.DesInd:
             # fwd/rev here is reelative to current flight not already defined trip(s)
             fwd = l.DepInd+':'+l.DesInd
@@ -105,8 +107,6 @@ def processLogbook(data, stdntROM, airports, planes, models, types, students):
             else:
                 # forward trip exists, add time
                 trips[fwd].addTrip(l.Date,l.Hours)
-
-    return trips
 
 def main():
     parser = argparse.ArgumentParser(description='Logbook processer')
@@ -138,12 +138,14 @@ def main():
     airports = processAirports(stored['airports'])
     planes, models, types = processPlanes(stored['planes'])
     students, studentROM = processStudents(stored['students'])
-    trips = processLogbook(stored['logbook'], studentROM, airports, planes, models, types, students) 
-
-    printTrips(trips, airports, 'MWO')
-
+    trips = dict() # create an empty dictionary
+    processLogbook(stored['logbook'], studentROM, airports, planes, models, types, students, trips) 
 
 
+    # print Trips sorted/filtered by Miles>=50 and To or From MWO
+    printTrips(trips, airports, 'Miles', 50, 'MWO')
+    # print all trips sorted by Flights (no filters)
+    printTrips(trips, airports, 'Flights', None, None)
 
 
 
